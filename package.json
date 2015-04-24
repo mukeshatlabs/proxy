@@ -1,0 +1,16 @@
+{
+  "name": "proxy",
+  "version": "1.0.0",
+  "description": "proxy server",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --exec babel-node -- index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mukesh Jain",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.55.0",
+    "yargs": "^3.7.2"
+  }
+}
