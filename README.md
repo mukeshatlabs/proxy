@@ -1,5 +1,4 @@
 # proxy
-Hours needed: It took me 1 hour to complete the proxy server
-I have completed all the required stories
+Hours needed: It took me 1 hour to complete the proxy server.
 
-Proxy server
+I have completed all the required stories.
